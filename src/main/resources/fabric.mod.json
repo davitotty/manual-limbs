@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "manuallimbs",
+	"version": "${version}",
+	"name": "Manual Limbs",
+	"description": "No more W to walk. Swing each leg yourself to take a step, and move your arms with the mouse to punch, mine and open things.",
+	"authors": [
+		"davit"
+	],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.manuallimbs.ManualLimbsClient"
+		]
+	},
+	"mixins": [
+		{
+			"config": "manuallimbs.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

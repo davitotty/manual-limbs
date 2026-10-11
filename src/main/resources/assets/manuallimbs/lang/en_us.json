@@ -1,0 +1,14 @@
+{
+	"key.category.manuallimbs.limbs": "Manual Limbs",
+	"key.manuallimbs.left_leg_forward": "Left leg: swing forward",
+	"key.manuallimbs.left_leg_back": "Left leg: push back",
+	"key.manuallimbs.right_leg_forward": "Right leg: swing forward",
+	"key.manuallimbs.right_leg_back": "Right leg: push back",
+	"key.manuallimbs.reverse": "Walk backwards (hold)",
+	"key.manuallimbs.left_arm": "Move left arm (hold + mouse)",
+	"key.manuallimbs.right_arm": "Move right arm (hold + mouse)",
+	"key.manuallimbs.grip": "Grab / use with hand",
+	"key.manuallimbs.toggle": "Toggle manual limbs",
+	"key.manuallimbs.toggle_balance": "Toggle falling over",
+	"key.manuallimbs.toggle_hud": "Toggle limb HUD"
+}

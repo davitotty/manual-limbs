@@ -1,0 +1,12 @@
+{
+	"schemaVersion": 1,
+	"id": "manuallimbs-test",
+	"version": "1.0.0",
+	"name": "Manual Limbs Test",
+	"environment": "client",
+	"entrypoints": {
+		"fabric-client-gametest": [
+			"com.manuallimbs.test.ManualLimbsClientTest"
+		]
+	}
+}
